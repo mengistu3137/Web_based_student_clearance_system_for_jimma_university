@@ -62,3 +62,8 @@ Contributions are welcome! Please fork this repository, create a new branch for 
 ## Author
 **Mengistu Tadesse**  
 For any questions or feedback, please contact me at [mengistu3137@gmail.com](mailto:mengistu3137@gmail.com).
+
+## Home page
+![image alt](https://github.com/mengistu3137/Web_based_student_clearance_system_for_jimma_university/blob/2542b71eaf03c94a9ce258c75b468c8313a4bff8/Home_page.jpg?raw=true)
+## Student page
+![Student page](https://github.com/mengistu3137/Web_based_student_clearance_system_for_jimma_university/blob/2542b71eaf03c94a9ce258c75b468c8313a4bff8/Home_page.jpg)

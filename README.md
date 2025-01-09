@@ -66,4 +66,4 @@ For any questions or feedback, please contact me at [mengistu3137@gmail.com](mai
 ## Home page
 ![image alt](https://github.com/mengistu3137/Web_based_student_clearance_system_for_jimma_university/blob/2542b71eaf03c94a9ce258c75b468c8313a4bff8/Home_page.jpg?raw=true)
 ## Student page
-![Student page](https://github.com/mengistu3137/Web_based_student_clearance_system_for_jimma_university/blob/2542b71eaf03c94a9ce258c75b468c8313a4bff8/Home_page.jpg)
+![Student page](https://github.com/mengistu3137/Web_based_student_clearance_system_for_jimma_university/blob/8e7ec48c45e72c7512f680dfec64ca4094d389db/Screenshot%202025-01-09%20213008.png)
